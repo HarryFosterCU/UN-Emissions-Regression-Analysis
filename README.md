@@ -46,7 +46,7 @@ This section is a more straightford depiction of the Carbon Emissions dataset. U
 
 ![image.png](README_files/5140745e-ec7c-4aad-884f-bc3b3523c948.png)
 
-The first shows the progression of the global mean carbon emissions from 1970 until 2017. It uses linear regression to show the increasing trend over time, the above showing a quadratic curve
+The first shows the progression of the global mean carbon emissions from 1970 until 2017. It uses regression analysis to show the increasing trend over time, the above showing a quadratic curve
 
 ![image.png](README_files/a87b3999-c9de-4302-8763-4ee9a4cf11a7.png)
 
